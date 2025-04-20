@@ -13,7 +13,7 @@ sunset and sunrise
 I got the API-key, changed the city to Östersund and tested it. In the HTML file I connected the JavaScript and CSS and added some basic text. The next step was to create variables for the API Key and city. I had to find help online to convert the date, temperature and time and make it readable. I adjusted the time from hh:mm:ss to only hh:mm. Then I used CSS to style the app. I used the SVG icons from the example but added one for snow, because we still get snow in April here in Jämtland. 
 
 - If you had more time, what would be next?
-Some more styling, maybe try to add another city.
+Some more styling. I tried to add another city and geolocation but did't get it to work right now. 
 
 ## View it live
 Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
