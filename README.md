@@ -17,3 +17,4 @@ Some more styling. I tried to add another city and geolocation but did't get it 
 
 ## View it live
 Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://github.com/nordiskastil/technigo-project-weather-app.git
